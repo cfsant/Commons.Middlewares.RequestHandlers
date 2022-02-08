@@ -1,1 +1,5 @@
-/Commons.Middlewares.RequestHandlers/.vs
+/Commons.Middlewares.RequestHandlers/bin
+/Commons.Middlewares.RequestHandlers/obj
+/Commons.Middlewares.RequestHandlers.Tests/obj
+/Commons.Middlewares.RequestHandlers.Tests/bin
+/.vs
